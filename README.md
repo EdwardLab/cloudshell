@@ -42,8 +42,6 @@
 
    ```
    docker build -t netprobe-cloudshell .
-   # Or pull pre-built image (replace with your Docker Hub username)
-   # docker pull yourdockerhub/netprobe-cloudshell
    ```
 
 2. **Run the container**
